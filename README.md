@@ -160,7 +160,7 @@ The project provided practical experience in robotics, CAD design, embedded syst
  - Performed complete hardware-software integration and system testing.
 
 ---
-## 🎥 Video***
+## 🎥 Video
 
 
 
