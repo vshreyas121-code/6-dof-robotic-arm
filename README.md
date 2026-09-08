@@ -103,6 +103,7 @@ The project provided practical experience in robotics, CAD design, embedded syst
 │   ├── parts-list.pdf
 │   └── wiring-diagram.png
 ├── 📁images/
+│   ├── Robotic_Arm.mov
 │   ├── finished-arm-cad.png
 │   ├── finished-arm.jpeg
 │   └── gripper.png
