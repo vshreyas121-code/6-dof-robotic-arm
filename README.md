@@ -1,3 +1,5 @@
+
+
 # DIY 6-DOF Robotic Arm
 
 ## 📌 Project Overview
@@ -158,9 +160,13 @@ The project provided practical experience in robotics, CAD design, embedded syst
 
 ---
 ## 🎥 Video***
-<p align="center">
-  <video src="YOUR_UPLOADED_VIDEO_URL_HERE" width="80%" controls></video>
-</p>
+
+
+
+https://github.com/user-attachments/assets/5076b947-41e4-44dd-bf85-272afc0f2e92
+
+
+
 
 ---
 ## 📚 Author
