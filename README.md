@@ -96,6 +96,8 @@ The project provided practical experience in robotics, CAD design, embedded syst
 │   │   └── 📁wrist/
 │   │       └── wrist.stl
 │   └── Onshape-Link.md
+├── 📁code/
+│   ├── 6 DOF Robotic Arm.ino
 ├── 📁docs/
 │   ├── assembly-guide.pdf
 │   └── wiring-diagram.png
